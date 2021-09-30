@@ -1,4 +1,4 @@
-package com.test.rest.restwebservices.model;
+package com.test.rest.restwebservices;
 
 public class HelloBean {
 	
